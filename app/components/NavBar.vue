@@ -3,6 +3,7 @@
     <div class="nav-brand">RUDRA</div>
     <ul class="nav-links">
       <li><NuxtLink to="/">Inicio</NuxtLink></li>
+      <li><NuxtLink to="/portafolio">Portafolio</NuxtLink></li>
        <li><NuxtLink to="/contacto">Contacto</NuxtLink>
 </li>
     </ul>
